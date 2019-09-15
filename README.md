@@ -32,13 +32,11 @@ Methods
 
 - Learning curves:
 
-  ![alt text](output/L-track-value-iteration-mild-crash-learning-curve.png) ![alt text](output/L-track-value-iteration-harsh-crash-learning-curve.png)
-  ![alt text](output/R-track-value-iteration-mild-crash-learning-curve.png) ![alt text](output/R-track-value-iteration-harsh-crash-learning-curve.png)
+  ![alt text](output/value-iteration.png)
 
   fig.1 The learning curve for Value Iteration using different racetracks and crash scenarios.
 
-  ![alt text](output/L-track-Q-learning-mild-crash-learning-curve.png) ![alt text](output/L-track-Q-learning-harsh-crash-learning-curve.png)
-  ![alt text](output/R-track-Q-learning-mild-crash-learning-curve.png) ![alt text](output/R-track-Q-learning-harsh-crash-learning-curve.png)
+  ![alt text](output/Q-learning.png)
 
   fig.2 The learning curve for Q-Learning using different racetracks and crash scenarios. Note that “L-track” uses a maximum of 1000 steps during each training iteration while “R-track” uses a maximum of 10000 steps during each training iteration.
 
