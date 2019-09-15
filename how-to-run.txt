@@ -1,0 +1,7 @@
+- Author: Winston Lin
+
+- How to run this program: Run “src/value_iteration.py” and “src/q_learning.py” to view the demonstration with a specified dataset. Run “src/write_to_file.py” to perform reinforcement learning using all models, write the results to output files, and generate learning curve figures
+
+- Java version: 10.0.1
+
+- IDE used: Eclipse Oxygen.3a Release (4.7.3a)
